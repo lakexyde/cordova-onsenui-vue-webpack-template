@@ -1,0 +1,28 @@
+{
+  "name": "cordova-template-onsenui-vue-webpack",
+  "version": "1.1.0",
+  "description": "Cordova template with OnsenUI, Vue 2 and Webpack 2.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Err: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lakexyde/cordova-template-onsenui-vue-webpack.git"
+  },
+  "homepage": "https://github.com/lakexyde/cordova-template-onsenui-vue-webpack",
+  "keywords": [
+    "ecosystem:phonegap",
+    "ecosystem:cordova",
+    "cordova:template",
+    "phonegap:template",
+    "cordova-template",
+    "template",
+    "webpack",
+    "vue.js",
+    "vue",
+    "onsenui"
+  ],
+  "author": "Olalekan Oladipupo",
+  "license": "Apache-2.0"
+}
