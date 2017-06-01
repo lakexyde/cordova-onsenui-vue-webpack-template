@@ -8,9 +8,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/lakexyde/cordova-template-onsenui-vue-webpack.git"
+    "url": "https://github.com/lakexyde/cordova-onsenui-vue-webpack-template.git"
   },
-  "homepage": "https://github.com/lakexyde/cordova-template-onsenui-vue-webpack",
+  "homepage": "https://github.com/lakexyde/cordova-onsenui-vue-webpack-template",
   "keywords": [
     "ecosystem:phonegap",
     "ecosystem:cordova",
